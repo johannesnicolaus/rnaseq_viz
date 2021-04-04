@@ -1,0 +1,12 @@
+name: covid_visualization
+title: covid_visualization
+username:
+account: jnicolaus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3905350
+bundleId: 4428813
+url: https://jnicolaus.shinyapps.io/covid_visualization/
+when: 1617507404.84497
+asMultiple: FALSE
+asStatic: FALSE
