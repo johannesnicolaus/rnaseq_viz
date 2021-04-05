@@ -72,7 +72,6 @@ choose_xaxis <- uiOutput("xaxis_select")
 
 choose_color <- uiOutput("color_select")
 
-metadata_1 %>% colnames()
 # Define UI 
 shinyUI(pageWithSidebar(
   
